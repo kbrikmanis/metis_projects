@@ -23,4 +23,4 @@ This repository contains code for projects I completed at Metis Data Science Boo
 # Questions or comments?
 I'd love to hear from you!
 
-Send me an email at kristin.n.brikmanis@gmail.com.
+Send me an email at kristin.n.brikmanis@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/kbrikmanis/).
