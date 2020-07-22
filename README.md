@@ -2,10 +2,9 @@
 This repository contains code for projects I completed at Metis Data Science Bootcamp from January-March 2020.
 
 1. Women's Tennis Association Player Types
-   * Clustered professional tennis players using data from 116,000 WTA tour-level matches since 1984
-   * Engineered career statistics based on strings containing individual match scores
-   * Used principle component analysis to explain different types of performance statistics like serving and returning
-   * Visualized data using Tableau
+   * Performed K-means clustering to discover professional tennis player types
+   * Used principle component analysis to explain performance within specific domains like serving
+   * Visualized career statistics [engineered based on strings containing individual match scores](tennis_cluster) with Tableau
   
 2. [Little Women Screenplay NLP Analysis](script_nlp)
    * Performed topic modeling using Non-Negative Matrix Factorization
