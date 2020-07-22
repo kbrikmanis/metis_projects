@@ -7,7 +7,7 @@ This repository contains code for projects I completed at Metis Data Science Boo
    * Used principle component analysis to explain different types of performance statistics like serving and returning
    * Visualized data using Tableau
   
-2. [Little Women Script NLP Analysis](script_nlp)
+2. [Little Women Screenplay NLP Analysis](script_nlp)
    * Performed topic modeling using Non-Negative Matrix Factorization
    * Used a random forest model to predict dialogue speakers
    * Organized and stored data using MongoDB
